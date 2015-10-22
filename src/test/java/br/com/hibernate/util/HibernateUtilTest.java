@@ -5,6 +5,8 @@ import org.hibernate.SessionFactory;
 import org.junit.Assert;
 import org.junit.Test;
 
+import br.com.hibernate.dominio.EntidadeTest;
+
 public class HibernateUtilTest {
 
 	@Test
